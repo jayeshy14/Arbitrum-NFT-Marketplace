@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NFT Minting and Marketplace
 
 Stake NFTs and earn rewards.
@@ -31,3 +32,6 @@ Make sure you have the following installed on your machine:
 
    ```sh
    npm start 
+=======
+# Arbitrum-Video-Marketplace
+>>>>>>> origin/main
